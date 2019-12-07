@@ -1,0 +1,37 @@
+{
+"symbol": "EVEN",
+
+"name": "even token",
+
+"type": "ERC20",
+
+"address": "0x2505a3c035291c05cb78cb43cff39564637e1dd9",
+"ens_address": "0xeB82ED86f8b7fFA98F74d08f21e96BB5A66583Da",
+"decimals":18 ,
+"website": "evenfound.org",
+"logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+},
+"support": {
+    "email": "",
+    "url": ""
+},
+"social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "@marcinzur2",
+    "twitter": "@marcinzur2",
+    "youtube": ""
+}
+}
